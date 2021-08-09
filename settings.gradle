@@ -1,0 +1,4 @@
+rootProject.name = "click-debounce"
+include ':app'
+include ':click-debounce-runtime'
+include ':click-debounce-gradle-plugin'
